@@ -1,7 +1,6 @@
 package com.mosaiker.consumer.service;
 
 import com.alibaba.fastjson.JSONObject;
-import com.mosaiker.consumer.Entity.Line;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.RequestBody;
